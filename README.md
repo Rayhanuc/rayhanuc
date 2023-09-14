@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+<div align="center"> <img src="https://raw.githubusercontent.com/Rayhanuc/rayhanuc/main/GitHub-Banner.jpg"> </div>
 
 <h1 align="center">Hi 👋, I'm Md. Rayhan Uddin Chowdhury</h1>
 <h3 align="center">A passionate Frontend and Backend Developer</h3>
