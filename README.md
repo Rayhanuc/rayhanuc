@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rayhanuddinchy.com/)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 
 <h1 align="center">Hi 👋, I'm Md. Rayhan Uddin Chowdhury</h1>
 <h3 align="center">A passionate Frontend and Backend Developer</h3>
