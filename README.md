@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/rayhanuddin12" target="blank"><img src="https://img.shields.io/twitter/follow/rayhanuddin12?logo=twitter&style=for-the-badge" alt="rayhanuddin12" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, Ruby, JavaScript**
+- 🌱 I’m currently learning **PHP, Ruby, JavaScript, Angular**
 
 - 👨‍💻 All of my projects are available at [https://rayhanuddinchy.com/](https://rayhanuddinchy.com/)
 
